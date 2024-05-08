@@ -11,7 +11,6 @@ Specifications:
 Instructions:
 1.	Connect the HC-SR04 ultrasonic sensor and the LCD to the ATmega32 microcontroller following the provided schematics.
 2.	Ensure that the microcontroller is powered at 8MHz.
-3.	Upload the provided code to the microcontroller.
-4.	Power on the system.
-5.	Observe the LCD display for real-time distance measurements.
+3.	Power on the system.
+4.	Observe the LCD display for real-time distance measurements.
 
