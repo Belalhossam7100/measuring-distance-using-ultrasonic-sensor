@@ -8,9 +8,5 @@ Specifications:
 4.	LCD Display: Displays the measured distance in real-time.
 
 
-Instructions:
-1.	Connect the HC-SR04 ultrasonic sensor and the LCD to the ATmega32 microcontroller following the provided schematics.
-2.	Ensure that the microcontroller is powered at 8MHz.
-3.	Power on the system.
-4.	Observe the LCD display for real-time distance measurements.
+
 
